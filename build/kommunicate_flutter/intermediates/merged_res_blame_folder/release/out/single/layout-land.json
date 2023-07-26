@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-land/material_clock_period_toggle_land.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-land/contact_list_fragment.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/layout-land/contact_list_fragment.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-land/material_timepicker.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/layout-land/material_timepicker.xml"
+    }
+]

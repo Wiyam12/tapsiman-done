@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    }
+]

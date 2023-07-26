@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "id.kakzaki.blue_thermal_printer-merged_res-21:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "id.kakzaki.blue_thermal_printer-appcompat-1.4.2-5:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "id.kakzaki.blue_thermal_printer-merged_res-21:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "id.kakzaki.blue_thermal_printer-appcompat-1.4.2-5:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.blue_thermal_printer-merged_res-21:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "id.kakzaki.blue_thermal_printer-appcompat-1.4.2-5:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "id.kakzaki.blue_thermal_printer-merged_res-21:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "id.kakzaki.blue_thermal_printer-appcompat-1.4.2-5:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "id.kakzaki.blue_thermal_printer-merged_res-21:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "id.kakzaki.blue_thermal_printer-appcompat-1.4.2-5:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "id.kakzaki.blue_thermal_printer-merged_res-21:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "id.kakzaki.blue_thermal_printer-appcompat-1.4.2-5:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "id.kakzaki.blue_thermal_printer-merged_res-21:/interpolator/fast_out_slow_in.xml",
+        "source": "id.kakzaki.blue_thermal_printer-appcompat-1.4.2-5:/interpolator/fast_out_slow_in.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "id.kakzaki.blue_thermal_printer-merged_res-21:/menu/example_menu.xml",
+        "source": "id.kakzaki.blue_thermal_printer-core-1.7.0-6:/menu/example_menu.xml"
+    },
+    {
+        "merged": "id.kakzaki.blue_thermal_printer-merged_res-21:/menu/example_menu2.xml",
+        "source": "id.kakzaki.blue_thermal_printer-core-1.7.0-6:/menu/example_menu2.xml"
+    }
+]

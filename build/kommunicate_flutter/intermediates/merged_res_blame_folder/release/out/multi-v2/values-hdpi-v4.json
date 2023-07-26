@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\johnw\\.gradle\\caches\\transforms-3\\71ce3f81ce856b490a3d378072fab07a\\transformed\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-mergeReleaseResources-27:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\johnw\\.gradle\\caches\\transforms-3\\71ce3f81ce856b490a3d378072fab07a\\transformed\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

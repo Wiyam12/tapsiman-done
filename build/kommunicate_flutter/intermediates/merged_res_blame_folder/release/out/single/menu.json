@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/menu/menu_contact.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/menu/menu_contact.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/menu/mobicom_basic_menu_for_normal_message.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/menu/mobicom_basic_menu_for_normal_message.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/menu/mobicom_main_menu.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/menu/mobicom_main_menu.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/menu/channel_menu_option.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/menu/channel_menu_option.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/menu/group_create_menu.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/menu/group_create_menu.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/menu/attachment_menu.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/menu/attachment_menu.xml"
+    }
+]

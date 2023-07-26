@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-v26/mtrl_calendar_month.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-v26/abc_screen_toolbar.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/layout-v26/abc_screen_toolbar.xml"
+    }
+]

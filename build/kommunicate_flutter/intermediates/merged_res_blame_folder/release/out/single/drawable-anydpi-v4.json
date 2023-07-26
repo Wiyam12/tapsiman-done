@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-anydpi-v4/ic_play_video.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable-anydpi-v4/ic_play_video.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-anydpi-v4/ic_pause_video.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable-anydpi-v4/ic_pause_video.xml"
+    }
+]

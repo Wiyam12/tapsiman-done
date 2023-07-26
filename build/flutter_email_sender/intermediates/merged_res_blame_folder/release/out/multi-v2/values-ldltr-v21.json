@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sidlatau.flutteremailsender.flutter_email_sender-merged_res-24:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\johnw\\.gradle\\caches\\transforms-3\\5f44857d4644df595cff37beba5ead75\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.sidlatau.flutteremailsender.flutter_email_sender-mergeReleaseResources-22:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\johnw\\.gradle\\caches\\transforms-3\\5f44857d4644df595cff37beba5ead75\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

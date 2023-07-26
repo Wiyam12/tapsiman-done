@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

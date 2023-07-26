@@ -1,0 +1,742 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_selector_success.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_selector_success.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_mtrl_checked_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/ic_mtrl_checked_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_vector_test.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-appcompat-resources-1.2.0-20:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_faq_button_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_faq_button_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_confused_grey.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_confused_grey.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/material_ic_calendar_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/material_ic_calendar_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_rich_message_border.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_rich_message_border.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_icon_3.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_icon_3.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mtrl_dropdown_arrow.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/mtrl_dropdown_arrow.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_top_first_message.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_top_first_message.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/recv_basket_animated.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/recv_basket_animated.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/material_ic_edit_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/material_ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_read_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_read_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/material_ic_menu_arrow_up_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/material_ic_menu_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_pending_message_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_pending_message_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_keyboard_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/material_ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_icon_2.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_icon_2.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/online_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/online_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_rich_message_edit_text_border.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_rich_message_edit_text_border.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/grey_rectangle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/grey_rectangle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_cab_background_internal_bg.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_text_light.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_relative_layout_drawable.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_relative_layout_drawable.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/toolbar_offline_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/toolbar_offline_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_record_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_record_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_channel_custom_message.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_channel_custom_message.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_rich_message_image_transparent_border.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_rich_message_image_transparent_border.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_calendar_today_black_18dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_calendar_today_black_18dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_sent_message.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_sent_message.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_icon_4.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_icon_4.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/navigation_empty_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_icon_1.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_icon_1.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_rich_message_image_border.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_rich_message_image_border.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mtrl_dialog_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/mtrl_dialog_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_link_button.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_link_button.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_btn_colored_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mtrl_ic_arrow_drop_down.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/mtrl_ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_happy.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_happy.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_list_selector_holo_light.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_status_icon_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_status_icon_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_custom_dialog_shape.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_custom_dialog_shape.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_delivered_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_delivered_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_mail_error.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_mail_error.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/start_new_conv_shape.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/start_new_conv_shape.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/design_fab_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_next.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_next.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mtrl_ic_arrow_drop_up.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/mtrl_ic_arrow_drop_up.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_take_over_from_bot_button_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_take_over_from_bot_button_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_item_background_holo_light.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_tab_indicator_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_widget_unread_message_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_widget_unread_message_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_form_edit_text_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_form_edit_text_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/button_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/button_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_arrow_drop_down_black_18dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_arrow_drop_down_black_18dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mtrl_popupmenu_background_dark.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/mtrl_popupmenu_background_dark.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/btn_radio_off_to_on_mtrl_animation.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_doc_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_doc_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_facebook_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_facebook_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_mail_default.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_mail_default.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/tooltip_frame_light.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/notification_bg.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-core-1.6.0-0:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_btn_check_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/offline_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/offline_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_message_info_status_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_message_info_status_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_list_divider_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_dialog_material_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_switch_thumb_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/take_over_from_bot_online_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/take_over_from_bot_online_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/notification_tile_bg.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-core-1.6.0-0:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_language_change.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_language_change.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/design_ic_visibility_off.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_item_background_holo_dark.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_dropdown_background_with_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_dropdown_background_with_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/tooltip_frame_dark.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/avd_show_password.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/avd_show_password.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/btn_radio_on_mtrl.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_btn_radio_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_home.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_home.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/notification_bg_low.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-core-1.6.0-0:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_prechat_collection_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_prechat_collection_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ratingbar_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_count_button_shape.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_count_button_shape.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_cancel_copy.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_cancel_copy.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/material_ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_audio_button_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_audio_button_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/notification_icon_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-core-1.6.0-0:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_btn_radio_material_anim.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mtrl_ic_cancel.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/mtrl_ic_cancel.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_away_message_divider.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_away_message_divider.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_sad_1_grey.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_sad_1_grey.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/design_password_eye.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_videocam_white_24px.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_videocam_white_24px.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_rich_messaging_price_border.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_rich_messaging_price_border.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_image_rich_message_border.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_image_rich_message_border.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_happy_grey.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_happy_grey.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_refresh_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_refresh_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/star.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/star.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/btn_checkbox_unchecked_mtrl.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_upload_dot.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_upload_dot.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_files.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_files.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_audio_button_pressed_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_audio_button_pressed_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ic_ab_back_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/unread_message_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/unread_message_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/recv_ic_delete.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/recv_ic_delete.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_edit_text_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/material_ic_clear_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/material_ic_clear_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_ic_action_camera_new.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_ic_action_camera_new.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_confused.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_confused.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mtrl_popupmenu_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/mtrl_popupmenu_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_messageicon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_messageicon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/not_found.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/not_found.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/design_ic_visibility.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/btn_checkbox_checked_mtrl.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_query_builder_black_18dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_query_builder_black_18dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_cab_background_top_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_received_message.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_received_message.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_textfield_search_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_list_selector_holo_dark.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/avd_hide_password.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/avd_hide_password.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_recorder_message_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_recorder_message_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_clock_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/ic_clock_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/design_snackbar_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ratingbar_small_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ic_go_search_api_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_km_default_logo.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_km_default_logo.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/material_ic_menu_arrow_down_black_24dp.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/material_ic_menu_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_chat_widget_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_chat_widget_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mobicom_attachment_download.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/mobicom_attachment_download.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/btn_radio_off_mtrl.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_profile_dot.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_profile_dot.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_text_cursor_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_imageless_rich_message_price_border.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_imageless_rich_message_price_border.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/test_custom_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/test_custom_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mobiframework_circular_text_view.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/mobiframework_circular_text_view.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/btn_radio_on_to_off_mtrl_animation.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_pdf_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_pdf_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_sent_icon.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_sent_icon.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_seekbar_track_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_multiple_button_selector.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_multiple_button_selector.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_seekbar_thumb_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_sad_1.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/ic_sad_1.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/design_bottom_navigation_item_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/admin_text.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/admin_text.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/toolbar_online_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/toolbar_online_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/toolbar_away_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/toolbar_away_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_blinking_dot.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_blinking_dot.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_ic_contact_picture_180_holo_light.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_ic_contact_picture_180_holo_light.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_lock.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_lock.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-play-services-base-17.0.0-1:/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_btn_check_material_anim.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/mtrl_ic_error.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/mtrl_ic_error.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/layout_shadow_border.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/layout_shadow_border.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/material_cursor_drawable.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable/material_cursor_drawable.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ic_search_api_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_ic_clear_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/abc_btn_borderless_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable/km_ic_contact_picture_holo_light.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-jetified-kommunicateui-2.7.5-15:/drawable/km_ic_contact_picture_holo_light.xml"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "id.kakzaki.blue_thermal_printer-merged_res-21:/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\johnw\\.gradle\\caches\\transforms-3\\4431c1c36744bccd39e5b6f01460a0ba\\transformed\\jetified-zxing-android-embedded-3.6.0\\res\\values-he\\values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,161,296",
+                        "endColumns": "55,49,134,89",
+                        "endOffsets": "106,156,291,381"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "id.kakzaki.blue_thermal_printer-mergeReleaseResources-19:/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\johnw\\.gradle\\caches\\transforms-3\\4431c1c36744bccd39e5b6f01460a0ba\\transformed\\jetified-zxing-android-embedded-3.6.0\\res\\values-he\\values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,161,296",
+                        "endColumns": "55,49,134,89",
+                        "endOffsets": "106,156,291,381"
+                    }
+                }
+            ]
+        }
+    ]
+}

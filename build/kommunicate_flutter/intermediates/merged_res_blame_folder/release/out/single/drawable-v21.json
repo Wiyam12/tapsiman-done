@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-v21/abc_btn_colored_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-v21/abc_dialog_material_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-v21/abc_list_divider_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-v21/notification_action_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-core-1.6.0-0:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-v21/material_cursor_drawable.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable-v21/material_cursor_drawable.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-material-1.3.0-10:/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/drawable-v21/abc_edit_text_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/drawable-v21/abc_edit_text_material.xml"
+    }
+]

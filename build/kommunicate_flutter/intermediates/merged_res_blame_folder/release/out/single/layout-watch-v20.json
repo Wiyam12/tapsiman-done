@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

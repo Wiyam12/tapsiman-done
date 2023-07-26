@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/color-v23/abc_tint_edittext.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/color-v23/abc_tint_spinner.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/color-v23/abc_color_highlight_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/color-v23/abc_tint_switch_track.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-merged_res-29:/color-v23/abc_tint_default.xml",
+        "source": "io.kommunicate.kommunicate_flutter_plugin.kommunicate_flutter-appcompat-1.2.0-13:/color-v23/abc_tint_default.xml"
+    }
+]

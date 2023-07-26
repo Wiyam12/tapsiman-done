@@ -1,0 +1,7 @@
+#Mon Jul 24 19:12:33 SGT 2023
+base.1=C\:\\Users\\johnw\\OneDrive\\Desktop\\flutter-summer\\tapsiman\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\johnw\\OneDrive\\Desktop\\flutter-summer\\tapsiman\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
