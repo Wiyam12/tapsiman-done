@@ -129,7 +129,7 @@ class TestPrinttt {
     print('name: $name');
     print('tablenumber: $tablenumber');
     print('note: $note');
-    print('totalAmount: $totalAmount');
+    print('totalAmount: ${totalAmount.toStringAsFixed(2)}');
     print('dataARray: $dataArray');
     double grandtotal = 0.0;
     if (name.length > 8) {
@@ -153,22 +153,25 @@ class TestPrinttt {
           if (productName.length > 8) {
             productName = productName.substring(0, 8) + "..";
           }
-          bluetooth.print3Column(
-              '$productName', '$quantity', '$productPrice', 1);
+          bluetooth.print3Column('$productName', '$quantity',
+              '${productPrice.toStringAsFixed(2)}', 1);
           // bluetooth.printCustom(
           //     "$productName\t$quantity\t₱$productPrice", 1, 0);
         }
         bluetooth.printCustom("- - - - - - - - - - - - - - -", 1, 1);
-        bluetooth.printLeftRight('Total:', ' $totalAmount', 1);
+        bluetooth.printLeftRight(
+            'Total:', ' ${totalAmount.toStringAsFixed(2)}', 1);
         bluetooth.printCustom("- - - - - - - - - - - - - - -", 1, 1);
         if (amountreceived != 0.0) {
-          bluetooth.printLeftRight('Cash:', ' $amountreceived', 1);
+          bluetooth.printLeftRight(
+              'Cash:', ' ${amountreceived.toStringAsFixed(2)}', 1);
           bluetooth.printLeftRight('Change:', ' $change', 1);
         }
 
         // bluetooth.printCustom("- - - - - - - - - - - - - - -", 1, 1);
 
-        bluetooth.printLeftRight('Use Coin:', ' $useCoins', 1);
+        bluetooth.printLeftRight(
+            'Use Coin:', ' ${useCoins.toStringAsFixed(2)}', 1);
         bluetooth.printCustom("- - - - - - - - - - - - - - -", 1, 1);
         bluetooth.printCustom("Thankyou for visiting our store", 1, 1);
         bluetooth.printCustom("$formattedDate", 1, 1);
